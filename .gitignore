@@ -39,3 +39,6 @@ build/
 
 # --- Datasets (generated data can be large; keep generators, not output) ---
 datasets/generated/
+
+# -- docs --
+ASCIP_Pro_Build_Spec.md
